@@ -1,0 +1,4 @@
+../snaekf01/Src/rtGetInf.c:22:8:rtGetInf	4	static
+../snaekf01/Src/rtGetInf.c:32:10:rtGetInfF	4	static
+../snaekf01/Src/rtGetInf.c:42:8:rtGetMinusInf	4	static
+../snaekf01/Src/rtGetInf.c:52:10:rtGetMinusInfF	4	static
