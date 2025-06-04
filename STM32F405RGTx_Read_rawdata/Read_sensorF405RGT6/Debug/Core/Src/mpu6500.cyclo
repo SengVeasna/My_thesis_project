@@ -1,0 +1,5 @@
+../Core/Src/mpu6500.c:13:6:MPU_Wirte_Register	1
+../Core/Src/mpu6500.c:21:6:MPU_Read_Register	1
+../Core/Src/mpu6500.c:30:6:MPU6500_Read	1
+../Core/Src/mpu6500.c:55:6:MPU6500_Init	1
+../Core/Src/mpu6500.c:72:6:MPU6500_Read_Scaled	2

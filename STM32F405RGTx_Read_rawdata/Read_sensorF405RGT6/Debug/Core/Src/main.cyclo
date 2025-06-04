@@ -1,0 +1,5 @@
+../Core/Src/main.c:59:6:sensorCalib	4
+../Core/Src/main.c:94:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:156:5:main	1
+../Core/Src/main.c:229:6:SystemClock_Config	3
+../Core/Src/main.c:279:6:Error_Handler	1
